@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rashaad. 👋
 
 <!--
 **rashaad-ak/rashaad-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=rashaad-ak)
 ![](https://komarev.com/ghpvc/?username=rashaad-ak&color=lightgrey)
-![](https://komarev.com/ghpvc/?username=rashaad-ak&style=plastic)
+
