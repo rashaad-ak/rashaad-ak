@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=rashaad-ak)
+![](https://komarev.com/ghpvc/?username=rashaad-ak&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=rashaad-ak&style=plastic)
