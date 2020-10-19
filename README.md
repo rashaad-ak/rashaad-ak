@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 How to reach me: rashaadakhan@gmail.com
+
 ![](https://komarev.com/ghpvc/?username=rashaad-ak&color=lightgrey)
 
